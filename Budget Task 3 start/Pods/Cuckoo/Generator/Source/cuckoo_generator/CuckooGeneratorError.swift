@@ -1,9 +1,4 @@
 //
-//  CuckooGeneratorError.swift
-//  CuckooGenerator
-//
-//  Created by Tadeas Kriz on 13/01/16.
-//  Copyright © 2016 Brightify. All rights reserved.
 //
 
 import Foundation
