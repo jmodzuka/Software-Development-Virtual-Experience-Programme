@@ -1,9 +1,4 @@
 //
-//  Created by Eric Firestone on 3/22/16.
-//  Copyright © 2016 Square, Inc. All rights reserved.
-//  Released under the Apache v2 License.
-//
-//  Adapted from https://gist.github.com/blakemerryman/76312e1cbf8aec248167
 
 import Foundation
 
