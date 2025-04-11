@@ -627,5 +627,4 @@ Thank you for your help!
 - [FileKit](https://github.com/nvzqz/FileKit)
 - [SourceKitten](https://github.com/jpsim/SourceKitten)
 
-## License
-Cuckoo is available under the [MIT License](LICENSE).
+
