@@ -1,8 +1,4 @@
 //
-//  TypeGuesser.swift
-//  CuckooGeneratorFramework
-//
-//  Created by Matyáš Kříž on 31/05/2019.
 //
 
 import Foundation
